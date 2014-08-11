@@ -3,7 +3,7 @@ Contributors: tleen
 Tags: super troopers, meow, cat game, comment, filter
 Requires at least: 0.71
 Tested up to: 3.6
-Stable tag: 0.0.1
+Stable tag: 1.0.1
 License: GPLv2
 License URI: https://github.com/tleen/wp-right-meow/blob/master/LICENSE
 
