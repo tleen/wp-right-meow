@@ -2,7 +2,7 @@
 /**
  * Right Meow!
  *
- * Implementation of the Super Troopers "Cat Game" in WordPress comments. 
+ * Comment substitution using Super Troopers "Cat Game" in WordPress comments. 
  * Your user comments will be filtered such that the "now"s will become "meow"s. 
  *
  * Don't wait, activate right meow!
@@ -16,7 +16,7 @@
  * @wordpress-plugin
  * Plugin Name:       Right Meow!
  * Plugin URI:        https://github.com/tleen/wp-right-meow
- * Description:       Implementation of the Super Troopers "Cat Game" in WordPress comments. Don't wait, activate right meow!
+ * Description:       Comment substitution using Super Troopers "Cat Game" in WordPress comments. Don't wait, activate right meow!
  * Version:           0.0.1
  * Author:            tleen
  * Author URI:        http://www.thomasleen.com
