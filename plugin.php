@@ -17,7 +17,7 @@
  * Plugin Name:       Right Meow!
  * Plugin URI:        https://github.com/tleen/wp-right-meow
  * Description:       Comment substitution using Super Troopers "Cat Game" in WordPress comments. Don't wait, activate right meow!
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            tleen
  * Author URI:        http://www.thomasleen.com
  * License:           GPL2
