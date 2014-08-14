@@ -19,7 +19,7 @@ class PluginTest extends PHPUnit_Framework_TestCase
       $this->t('This is now the text you know.'),
       'This is meow the text you know.'
     );
-    
+
   }
 
   public function testUpperCase()
@@ -27,7 +27,7 @@ class PluginTest extends PHPUnit_Framework_TestCase
     $this->assertEquals(
       $this->t('This is NOW the text you know.'),
       'This is MEOW the text you know.'
-    );    
+    );
   }
 
   public function testCapitalized()
@@ -35,7 +35,7 @@ class PluginTest extends PHPUnit_Framework_TestCase
     $this->assertEquals(
       $this->t('This is Now the text you know.'),
       'This is Meow the text you know.'
-    );    
+    );
   }
 
   public function testOtherCases()
@@ -43,7 +43,7 @@ class PluginTest extends PHPUnit_Framework_TestCase
     $this->assertEquals(
       $this->t('This is nOw the text you know.'),
       'This is meow the text you know.'
-    );    
+    );
   }
 
   public function testMixed()
@@ -51,9 +51,7 @@ class PluginTest extends PHPUnit_Framework_TestCase
     $this->assertEquals(
       $this->t('meow now a Now NOW now know noW nOw NOW now.'),
       'meow meow a Meow MEOW meow know meow meow MEOW meow.'
-    );    
+    );
   }
 
 }
-
-?>
