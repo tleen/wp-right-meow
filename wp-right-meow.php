@@ -2,8 +2,8 @@
 /**
  * Right Meow!
  *
- * Comment substitution using Super Troopers "Cat Game" in WordPress comments. 
- * Your user comments will be filtered such that the "now"s will become "meow"s. 
+ * Comment substitution using Super Troopers "Cat Game" in WordPress comments.
+ * Your user comments will be filtered such that the "now"s will become "meow"s.
  *
  * Don't wait, activate right meow!
  *
@@ -51,4 +51,3 @@ function wp_right_meow_substitute($text){
 
 
 add_filter('comment_text', 'wp_right_meow_substitute');
-?>
