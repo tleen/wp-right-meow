@@ -7,7 +7,7 @@
 define('WPINC', true);
 function add_filter($filter, $function){ } // dummy WordPress hook
 
-require dirname(__FILE__) . '/../plugin.php';
+require dirname(__FILE__) . '/../wp-right-meow.php';
 
 class PluginTest extends PHPUnit_Framework_TestCase
 {
