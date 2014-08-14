@@ -1,5 +1,5 @@
 === Right Meow ===
-Contributors: tleen
+Contributors: tleen, bradparbs
 Tags: super troopers, meow, cat game, comment, filter
 Requires at least: 0.71
 Tested up to: 3.6
